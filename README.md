@@ -33,7 +33,7 @@ Steps:
 1. Go to https://openweathermap.org/
 2. Create a free account
 3. Generate your API key
-4. Replace `YOUR_API_KEY_HERE` in the code with your own key
+4. create your own key and replace it in code
 
 
 <img width="1333" height="1011" alt="Screenshot 2025-12-26 194044" src="https://github.com/user-attachments/assets/e9586431-0837-4d4a-86b8-a69637a06623" />
