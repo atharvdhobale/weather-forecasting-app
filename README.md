@@ -7,7 +7,7 @@ A Python-based Weather Forecasting application built using Tkinter and OpenWeath
 ## 📌 Features
 - Get current weather details
 - 5-day weather forecast
-- Displays temperature, humidity, pressure, wind speed, and description
+- Displays temperature, humidity, pressure, wind speed, and description.
 - Simple and user-friendly GUI
 
 ## 🛠 Technologies Used
